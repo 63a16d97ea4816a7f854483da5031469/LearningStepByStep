@@ -6,3 +6,6 @@
 3. Android common library -- Within 2 weeks. [4.07.2016 - 17.07.2016]
 4. Swift enhancement.-- Within 2 weeks. 18.07.2016 - 31.07.2016
 5. Unit Test for Objective-C 
+6. Learn the webrtc
+7. Learn the Firebase
+8. 
